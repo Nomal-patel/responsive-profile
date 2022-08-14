@@ -319,6 +319,11 @@ a.Java{
   justify-content: center;
 }
 
+.skills-section h2{
+  padding: 15px;
+  padding-top:55px;
+}
+
 .info-section h2 {
   font-size: 50px;
   margin-bottom: 25px;

@@ -35,6 +35,10 @@ function About(props) {
           however I currently stick to Web Development.
           Until now, I've been working as a freelancer for individuals ranging from small business owners to college sophomores. 
           I'm currently looking for a professional opportunity utilize my expertise.
+
+
+
+          
           </p>
         </div>
         <hr />
