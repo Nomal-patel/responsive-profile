@@ -30,12 +30,11 @@ function About(props) {
         <div className="about-section">
           <h2>About Me</h2>
           <p>
-            I have been pursuing computer science for 4 years. Becuase of my 
-            curious nature I never stuck at one language or field and tried
-            out everything although currently I'm sticking with Web Development.
-            Up until now I've been working as a freelancer from small buissness owners 
-            to sophomores in college. I'm currently looking for an opportunity to apply
-            my skills professionally.
+          For the the last four years, I have been pursuing computer science. 
+          Because of my inquisitive nature, I never strictly followed to one language or field and explored everything, 
+          however I currently stick to Web Development.
+          Until now, I've been working as a freelancer for individuals ranging from small business owners to college sophomores. 
+          I'm currently looking for a professional opportunity utilize my expertise.
           </p>
         </div>
         <hr />
