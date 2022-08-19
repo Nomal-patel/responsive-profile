@@ -356,7 +356,8 @@ a.Java{
     font-size: 25px;
     align-items: center;
     justify-content: center;
-    margin-top: 200px;
+    margin-top: 180px;
+    padding-bottom: 3px;
   }
   .skill{
     display: flex;
@@ -364,7 +365,7 @@ a.Java{
     align-items: center;
     padding: 3px;
     padding-left: 5px;
-    flex-flow: wrap;
+    flex-flow: row wrap;
 
   }
   .socials {
@@ -379,6 +380,8 @@ a.Java{
     align-items: center;
     padding: 5px;
     padding-left: 5px;
+    padding-top: 100px;
+    height: 500px;
 
   }
 
@@ -401,6 +404,7 @@ a.Java{
     padding: 40px;
     background: #ffffff;
     color: black;
+    position: fixed;
     width: 604px;
 
   }
